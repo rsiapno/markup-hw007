@@ -246,6 +246,17 @@
       <symbol id="checkbox" viewBox="0 0 16 16" fill="none">
              <rect x="0.5" y="0.5" width="15" height="15" rx="1.5" stroke="#2E2F42" stroke-opacity="0.4"/>
       </symbol>
+
+      <symbol id="hamburger" viewBox="0 0 32 22" fill="none">
+            <g clip-path="url(#clip0_297053_2156)">
+                  <path d="M1.34766 20.0431H30.8861M1.34766 10.7354H30.8861M1.34766 1.42773H30.8861" stroke="#2E2F42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <defs>
+                <clipPath id="clip0_297053_2156">
+                     <rect width="32" height="22" fill="white"/>
+                </clipPath>
+            </defs>
+      </symbol>
     </defs>
 </svg>
 
